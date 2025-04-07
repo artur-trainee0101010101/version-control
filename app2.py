@@ -3,7 +3,7 @@ from docx import Document
 # Data for the table
 data = [
     ["Activity / Product", "Annual Output name", "Start date", "End date", 
-     "Estimated cost w/o staff", "Total int. FTEs", "DID Int. FTEs", 
+     "Estimated cost w/o staff", "DID Int. FTEs", 
      "KPI affected (main benefit)", "CSFD ranking"],
     ["Opening up IPEP for candidate countries", 
      "Pilot with a selected third country (Ukraine)", "01/01/2025", "Early 2026", 
